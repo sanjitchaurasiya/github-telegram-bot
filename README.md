@@ -61,3 +61,9 @@ A powerful and feature-rich **Telegram Bot for GitHub** that lets you search rep
 ```bash
 git clone https://github.com/sanjitchaurasiya/github-telegram-bot.git
 cd github-telegram-bot
+
+
+
+## 📄 License
+This project is licensed under the MIT License with Attribution and Watermark Protection.  
+© 2026 SANJIT CHAURASIYA
